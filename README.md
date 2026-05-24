@@ -8,7 +8,7 @@ This repository is for publicly sharing India-related datasets that I collected 
 Put all dataset files under `/data`, preferably in `CSV` or `JSON` format.
 数据文件统一放在 `/data` 目录下，建议使用 `CSV` 或 `JSON` 格式。
 
-## 发布规范
+## Publication Standards / 发布规范
 
 - Each data file should include clear field definitions.
 - Each data file should include source and collection/curation date.
