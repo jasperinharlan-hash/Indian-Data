@@ -11,7 +11,7 @@
 # Data File Guide
 
 Place public dataset files in this directory and include the metadata below for each file:
-- Create a sidecar `<file-name>.meta.md` in the same directory to record this metadata:
+- Create a sidecar `<filename>.meta.md` in the same directory to record this metadata:
 - Topic
 - Field definitions
 - Data source
