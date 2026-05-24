@@ -3,7 +3,7 @@
 This repository is for publicly sharing India-related datasets that I collected and organized.
 本仓库用于公开发布我收集整理的印度相关数据。
 
-## 数据目录
+## Data Storage / 数据存储
 
 Put all dataset files under `/data`, preferably in `CSV` or `JSON` format.
 数据文件统一放在 `/data` 目录下，建议使用 `CSV` 或 `JSON` 格式。
